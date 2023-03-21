@@ -52,7 +52,7 @@ function App() {
 
 
        
-        <Sky color="#004F8B" />
+        <Sky src="https://raw.githubusercontent.com/aframevr/aframe/v1.0.4/examples/boilerplate/panorama/puydesancy.jpg" />
 
           
       </Scene>
